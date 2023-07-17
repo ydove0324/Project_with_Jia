@@ -1,0 +1,4 @@
+openpyxl
+sklearn
+numpy
+pandas
